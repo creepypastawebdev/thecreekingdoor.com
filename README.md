@@ -1,8 +1,8 @@
-!DOCTYPE html>
+
 <html lang="en">
 <head>
 				<meta charset="UTF-8">
-				<title>the creecking door</title>
+				
 </head>
 <body>
 				<div style="background-color:black;color:red;"><p> <strong><h1>THE CREECKING DOOR</h1></strong></p>
